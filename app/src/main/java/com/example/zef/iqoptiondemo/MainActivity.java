@@ -146,6 +146,9 @@ public class MainActivity extends AppCompatActivity implements TabHost.OnTabChan
                 return false;
             }
         });
+
+
+        //option type drop down
         spinner = (Spinner) findViewById(R.id.option_type);
 
         option_type = ArrayAdapter.createFromResource(this, R.array.options_type, R.layout.spinner_item);

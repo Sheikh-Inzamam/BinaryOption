@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name">IQ option Demo</string>
+    <string name="app_name">Binary Option</string>
     <string name="traderoom">Traderoom</string>
     <string name="drawer_open">Drawer Open</string>
     <string name="drawer_close">Drawer Close</string>
@@ -26,6 +26,46 @@
         <item>Turbo</item>
         <item>Binary</item>
     </string-array>
+
+    <string-array name="assets">
+        <item>Indices</item>
+        <item>Forex</item>
+        <item>Equities</item>
+        <item>Commodities</item>
+    </string-array>
+
+    <string-array name="indices_val">
+        <item>TOPIX500</item>
+        <item>DAX 30</item>
+    </string-array>
+    <string-array name="forex_data">
+        <item>EUR/USD</item>
+        <item>USD/CAD</item>
+        <item>AUD/USD</item>
+        <item>EUR/NZD</item>
+        <item>AUD/JPY</item>
+        <item>EUR/JPY</item>
+        <item>EUR/AUD</item>
+        <item>EUR/CAD</item>
+        <item>GBP/JPY</item>
+        <item>USD/JPY</item>
+        <item>AUD/CAD</item>
+        <item>NZD/USD</item>
+        <item>USD/NOK</item>
+    </string-array>
+
+
+    <string-array name="equities_data">
+        <item>Apple</item>
+        <item>Apple</item>
+        <item>Apple</item>
+        <item>Apple</item>
+        <item>Apple</item>
+        <item>Apple</item>
+
+    </string-array>
+
+
 
 
 
